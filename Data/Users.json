@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "username": "dinesh",
+      "email": "dinesh@123",
+      "pass": "1234",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "username": "dinesh12",
+      "email": "dinesh@12345",
+      "pass": "123456",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "username": "adinesh",
+      "email": "adi@123",
+      "pass": "1111",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "username": "abinesh",
+      "email": "abinesh@12334",
+      "pass": "2222",
+      "gender": "Others",
+      "id": 5
+    }
+  ]
+}

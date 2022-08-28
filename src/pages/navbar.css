@@ -1,0 +1,84 @@
+#navbar{
+    position: sticky;
+    top: 0px;
+}
+
+#nav1{
+    background-color: rgb(48, 46, 62);
+    display: flex;
+   
+    justify-content: space-around;
+}
+#navsec,#navsec1{
+    margin: 5px 0px 5px;
+    
+
+}
+#navsec{
+    margin-right: 100px;
+   
+
+}
+#navsec img{
+   
+  margin-right: 15px;
+ 
+}
+#navsec input {
+    width: 550px;
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    top: 3px;
+   
+}
+#navsec1{
+      display: flex; 
+}
+#navsec1 a,#navsec1 button,#p{
+    margin: 10px 5px;
+    color: whitesmoke;
+}
+#navsec1 a{
+    text-decoration: none;
+}
+#navsec1 button{
+    background-color: rgb(241, 58, 119);
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: 13px;
+    padding: 1px 15px 5px;
+}
+
+#nav2{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(39, 36, 51);
+    padding: 0px 110px ;     
+}
+li{
+    margin-top: 10px;
+    display: inline;
+    padding:  5px ;
+}
+li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+sup{
+    color: red;
+    font-size: 8px;
+}
+#sec1{
+    margin-top:10px;
+    font-size: 14px;
+    margin-left: 250px;
+}
+.li{
+    padding: 0px 30px;
+    font-size: 17px;
+}
+#aveng{
+    border-radius: 20px;
+}
+

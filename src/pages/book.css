@@ -1,0 +1,16 @@
+#place{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#imax,#pvr{ margin: 10px 50px;
+    background-color: antiquewhite;
+    font-size: 50px;
+    padding: 20px 50px;
+    border-radius: 20px;
+text-decoration: none;
+color: brown;
+
+}
+#cho{
+border-bottom: 2px solid rgb(26, 26, 58);
+}

@@ -1,0 +1,41 @@
+.movie-detail{
+    
+    text-align: left;
+    padding: 10px 50px;
+    color: rgb(186, 161, 100);
+    position: relative;
+    left: 300px;
+    background-color: rgb(155, 231, 252);
+    max-width: 1000px;
+    border-top: 1px solid black;
+    
+  }
+  .movie-detail img{
+    height: 400px;
+    width: 250px;
+    border-radius: 10px;
+  }
+  #details{
+    display: flex;
+  }
+  .det{
+    position: relative;
+    top: 100px;
+    left: 80px;
+    max-width: 500px;
+  }
+  .det h1{
+    color: black;
+  }
+  .movie-detail button{
+    padding: 4px 10px;
+    margin: 20px 100px 50px;
+    border-radius: 20px;
+    background-color:red;
+    color: aliceblue;
+    
+  }
+  #book{
+    text-decoration: none;
+    color: white;
+  }

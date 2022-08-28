@@ -1,0 +1,81 @@
+{
+    "movies": [
+    {
+      "mName": "kgf-2",
+      "hero": "Yash",
+      "genere": "Drama/Thriller",
+      "Trailer": "https://www.youtube.com/watch?v=tLeTx5OdjZs",
+      "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "story": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "id": 1
+    },
+    {
+      "mName": "Jai Bhim",
+      "hero": "Suriya",
+      "genere": "Drama/Documentry",
+      "Trailer": "https://www.youtube.com/watch?v=nnXpbTFrqXA",
+      "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jai-bhim-et00313103-12-10-2021-01-54-24.jpg",
+      "story": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "id": 2
+    },
+    {
+      "mName": "Viruman",
+      "hero": "Karthik",
+      "genere": "Action/Drama",
+      "Trailer": "https://youtu.be/aRx4-fsJ5uE",
+      "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/viruman-et00321392-14-01-2022-01-07-39.jpg",
+      "story": "Viruman is a Tamil movie directed by M Muthaiah, starring Karthik Sivakumar in the lead role.",
+      "id": 3
+    },
+    {
+      "mName": "Vikrant rona",
+      "hero": "Sudeep",
+      "genere": "thriller",
+      "Trailer": "https://www.youtube.com/watch?v=VV9SfpGRVFw",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/5/51/Vikrant_Rona.jpeg",
+      "story": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural.",
+      "id": 4
+    },
+    {
+      "mName": "Vikram",
+      "hero": "Kamal Hassan",
+      "genere": "action",
+      "Trailer": "https://www.youtube.com/watch?v=OKBMCL-frPU",
+      "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vikram-et00138591-22-07-2021-11-45-18.jpg",
+      "story": "Members of a black ops team must track and eliminate a gang of masked murderers.",
+      "id": 5
+    },{
+        "mName": "Raksha Bandhan",
+        "hero": "Akshay Kumar",
+        "genere": "Comedy/action/Family",
+        "Trailer": "https://youtu.be/LS0uQOrGhbo",
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/raksha-bandhan-et00136643-1657007364.jpg",
+        "story": "Raksha Bandhan is a story that celebrates family values, togetherness, love, even sacrifice_but most importantly, it is a story that celebrates one of the most precious and unique kind of familial bond - relationship between a brother and his sisters!",
+        "id": 6
+    },{
+        "mName": "Laal Singh Chaddha",
+        "hero": "Amir khan",
+        "genere": "Comedy/Drama/Romantic ",
+        "Trailer": "https://youtu.be/R6savS7m0Fg",
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/laal-singh-chaddha-et00098735-1658747608.jpg",
+        "story": "Laal Singh Chaddha, starring Aamir Khan & Kareena Kapoor is a story set in India that unfolds through several historical events as a beautiful journey of love, adventure, hope and wonder.",
+        "id": 7
+    },{
+        "mName": "Vikram Vedha",
+        "hero": "Hrithik Roshan",
+        "genere": "crime/Thriller ",
+        "Trailer": "https://youtu.be/BZ5Y1LSMlE4",
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vikram-vedha-et00319143-1658735855.jpg",
+        "story": "Vikram is a ruthless, no-nonsense cop who, along with his team, is on a lookout to nab a dreaded gangster, Vedha. While Vikram sees all things as black and white, Vedha, a worldly wise man, doesn`t hold the same thinking as Vikram`s, leading to a powerful clash between the two ideologies.",
+        "id": 8
+    },{
+        "mName": "Sita Ramam",
+        "hero": "Dulquer Salmaan",
+        "genere": "Action/Drama/Romantic ",
+        "Trailer": "https://youtu.be/6epYHVW0soY",
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sita-ramam-et00329656-30-05-2022-06-32-41.jpg",
+        "story": "Sita Ramam is a multilingual movie starring Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna and Sumanth in prominent roles. It is an action romance directed by Hanu Ragavapudi forming part of the crew. Dulquer Salmaan plays the role of Lieutenant Ram in this film",
+        "id": 9
+    }
+  ]
+}

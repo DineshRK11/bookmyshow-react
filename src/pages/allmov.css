@@ -1,0 +1,12 @@
+
+.divmov{
+    margin: 0px 150px;
+    display: flex-box;
+    justify-content: center;
+}
+.divsec{
+    display: inline-block;
+    padding: 20px 50px;  
+    justify-content: center;
+    
+}
